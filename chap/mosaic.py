@@ -2,7 +2,7 @@ import cv2
 
 rate  = 15
 win_title = 'rect'
-image = cv2.imread("images/20231002_Jang_Won-young.jpg")
+image = cv2.imread("images/j2.jpg")
 face_cascade = cv2.CascadeClassifier("haarcascades/haarcascade_frontalface_default.xml")
 # eye_cascade = cv2.CascadeClassifier("haarcascades/haarcascade_eye.xml")
 
